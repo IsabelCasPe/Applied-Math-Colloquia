@@ -1,5 +1,5 @@
 # Applied-Math-Colloquia
-Livros e materiais avançados em Matemática Aplicada, Sistemas Dinâmicos e Teoria de Grafos 📚 Por @IsabelCasPe
+Livros e materiais avançados em Matemática Aplicada, Sistemas Dinâmicos e Teoria de Grafos 📚 Por @IsabelCasPe 
 
 ## 🎯 Sobre o Repositório
 Este repositório reúne **livros em PDF** adquiridos pela **Prof. Ana Isabel Castillo** durante sua participação em cursos avançados e colóquios de matemática. O objetivo é compartilhar conhecimento de alto nível, com temas que vão de **Teoria de Grafos** a **Dinâmica Homotópica**, para pesquisadores e entusiastas de matemática aplicada.
