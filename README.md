@@ -43,5 +43,10 @@ Explore os livros organizados por tema:
 
 📢 **Nota:** Estes PDFs são compartilhados para fins educacionais. Para outros usos, entre em contato com a autora ou o IMPA (editora@impa.br).
 
+---
+> "Applied Math Colloquia - espaço onde a matemática aplicada conecta pesquisadores e inspira descobertas." 🎓📘🧮💡🌐 ♾️
+> © Copyright - Prof. Ana Isabel Castillo 💙
+---
+
 
 
