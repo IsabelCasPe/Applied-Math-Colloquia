@@ -45,6 +45,7 @@ Explore os livros organizados por tema:
 
 ---
 > "Applied Math Colloquia - espaço onde a matemática aplicada conecta pesquisadores e inspira descobertas." 🎓📘🧮💡🌐 ♾️
+
 > © Copyright - Prof. Ana Isabel Castillo 💙
 ---
 
