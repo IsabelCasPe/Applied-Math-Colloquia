@@ -1,4 +1,15 @@
-# Applied-Math-Colloquia
+<!-- HERO -->
+## Maths💎
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença](#licença--license--licencia)
+
+---
+## Applied-Math-Colloquia
 Livros e materiais avançados em Matemática Aplicada, Sistemas Dinâmicos e Teoria de Grafos 📚 Por @IsabelCasPe 
 
 ## 🎯 Sobre o Repositório
