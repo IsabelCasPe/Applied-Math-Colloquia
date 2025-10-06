@@ -61,5 +61,12 @@ Explore os livros organizados por tema:
 > © Copyright - Prof. Ana Isabel Castillo 💙
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/💎_Matemática_Aplicada,_Redes_e_Caos_Harmônico_—_Explorando_o_Universo_em_Código._🌌_@IsabelCasPe_–_Maths_💙♾️-FFD700?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0A3D91&color=1E90FF" alt="Applied Mathematics Cosmic Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨_Entre_Fractais_e_Finanças,_Busco_a_Beleza_do_Infinito._💫_@IsabelCasPe_–_Maths_💙♾️-DAA520?style=for-the-badge&logo=starship&logoColor=white&labelColor=001F3F&color=FFD700" alt="Cosmic Signature Badge"/>
+</p>
 
 
